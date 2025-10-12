@@ -33,7 +33,7 @@ Legelőször megpróbálkoztam a játék eredeti forgócsukló dizájnjával, de
 Mi lehet az a dolog, ami súrlódásmentesen engedi a benne lévő tengelyt a forgásra? Így van, át is kutattam a csapágyas dobozom és a legalján megtaláltam a tökéletes egyedet, egy mini golyóscsapágyat, nem tudom miből szereztem, ne kérdezd.
 A testet kifúrtam merőlegesen az asztalra úgy, hogy a csapágy külseje belepasszolt, ezt pillanatragasztőval rögzítettem, sajnos kis mérete és elég gyenge minősége miatt rengeteg volt a csapágyban a játék. Nembaj, megoldjuk. Most következett a tengely ami belemegy. Ezt az esztergán csináltam meg, egy nagyobb feje van hogy egy kisebb 8mm-es fémcsövet merőlegesen bele tudjak helyezni, erre majd magát a csőalakú csigát rá tudom húzni, a belsejébe pedig egy 5mm-es élelmiszeripari minőségű szilikoncsövet tudok vezetni.
 
-![image_2025-04-28T18-12-41Z.png](/2025/combine-dispenser/attachments/image_2025-04-28T18-12-41Z.png)
+![image_2025-04-28T18-12-41Z.png](/blog/combine-dispenser/image_2025-04-28T18-12-41Z.png)
 *A műszaki rajzot később készítettem illusztráció céljából, nem pontos minden méret*
 
 Ez működött, első ötletem a fogaskerekes áttétel volt, lehetőleg 1:1 arányban mert a szervónak amit használok(MG995) 180 fokos a tartománya. 5 feles pohár a cél, ehhez minimum 120 fok kell. Ez nem működött, rengeteget szórakoztam vele, de sajnos nem sikerült megcsinálni.
@@ -43,8 +43,8 @@ Tehát a következő lehetőség egy szilikoncső amely összeköti a könyök t
 Az előbb említett rövidsége miatt a tengelyre nehezen tudtam úgy ráfogatni a csövet, hogy az anyag forgása miatti nyúlásának ellenálljon, de végül összedobtam egy szoritót egy darab sárgaréz szekrényalkatrészből amit találtam.
 
 A szervónál való rögzítéséhez megint az esztergához fordultam, szerencsére találtam egy olyan menetes tengely gyűrűt, amely tökéletes volt a feladatra. Az esztergában kibővítettem a furatot úgy, hogy a szilikoncső épphogy belement. A szervó tengelyének a közepén van egy M3-as menet, amelybe az esztergán csináltam egy menetes végű tengelyt.
-![image_2025-04-28T19-46-21Z.png](/2025/combine-dispenser/attachments/image_2025-04-28T19-46-21Z.png)Ezt a tengelyt menetrögzítővel a szervóba ragasztottam, a külső átmérőjére rápasszol a szilikoncső, arra a tengelygyűrű és a tengelygyűrűben a csavarral a szilikoncsövet a tengelyre fogtam. Így néz ki az elkészített mechanizmus:
-![image_2025-04-28T19-51-47Z.png](/2025/combine-dispenser/attachments/image_2025-04-28T19-51-47Z.png)*Tudom hogy rossz a kép, ez van.*
+![image_2025-04-28T19-46-21Z.png](/blog/combine-dispenser/image_2025-04-28T19-46-21Z.png)Ezt a tengelyt menetrögzítővel a szervóba ragasztottam, a külső átmérőjére rápasszol a szilikoncső, arra a tengelygyűrű és a tengelygyűrűben a csavarral a szilikoncsövet a tengelyre fogtam. Így néz ki az elkészített mechanizmus:
+![image_2025-04-28T19-51-47Z.png](/blog/combine-dispenser/image_2025-04-28T19-51-47Z.png)*Tudom hogy rossz a kép, ez van.*
 
 # Mi most a teendő?
 

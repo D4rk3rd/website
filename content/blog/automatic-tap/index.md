@@ -18,7 +18,9 @@ Elegem lett a szűrt vízes csapok lassúságából, sajnos ezen nem tudok egysz
 
 ## Ötletelés
 
-El is mentem az IKEA-ba, hogy keressek inspirációt a dizájnra, ekkor megláttam a [TVÄRHAND](https://www.ikea.com/hu/hu/p/tvaerhand-asztali-lampa-fekete-bambusz-90510894/) lámpát, a minimalista tartókarja nagyon megtetszett, és a bambusz alap is, azonban a talp nem felelt volna meg a mérete miatt. Tovább keresgéltem talpnak valót, meg is találtam a [FASCINERA](https://www.ikea.com/hu/hu/p/fascinera-vagodeszka-akac-00503360/) vágódeszkát, melynek a formája nagyon megtetszett, és ideális is volt. Az elképzelésem a következő:![image_2025-09-14T13-12-30Z.png](/static/blog/automatic-tap/image_2025-09-14T13-12-30Z.png)A szürke karika a kancsó helye, a fekete pedig csap alja lesz.
+El is mentem az IKEA-ba, hogy keressek inspirációt a dizájnra, ekkor megláttam a [TVÄRHAND](https://www.ikea.com/hu/hu/p/tvaerhand-asztali-lampa-fekete-bambusz-90510894/) lámpát, a minimalista tartókarja nagyon megtetszett, és a bambusz alap is, azonban a talp nem felelt volna meg a mérete miatt. Tovább keresgéltem talpnak valót, meg is találtam a [FASCINERA](https://www.ikea.com/hu/hu/p/fascinera-vagodeszka-akac-00503360/) vágódeszkát, melynek a formája nagyon megtetszett, és ideális is volt. Az elképzelésem a következő:
+![image_2025-09-14T13-12-30Z.png](/blog/automatic-tap/image_2025-09-14T13-12-30Z.png)
+A szürke karika a kancsó helye, a fekete pedig csap alja lesz.
 
 ## "Automatikus"
 
