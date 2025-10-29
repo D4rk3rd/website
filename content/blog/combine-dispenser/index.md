@@ -12,6 +12,8 @@ tags = ["projects", "drinks", "hydro", "electronics", "programming"]
 copy_button = true
 +++
 
+![done_intro.gif](/blog/combine-dispenser/done_intro.gif)
+
 # Bevezető
 
 Ez a projekt a tiszta unalom szülöttje, láttam egy [videót tiktokon](https://www.tiktok.com/@farmersweeklyofficial/video/7303492813168168224) ezer éve, amiből jött nekem is az ötlet ennek a csodaszerkezetnek a megépítéséhez. Ez nem egy egyedi ötlet, lehet ilyeneket venni [Etsyn is](https://www.etsy.com/listing/1882474140/alcohol-dispenser-combine-for-6-glasses) például (kinek van erre 130 ezer forintja, de most komolyan...), de mivel nekem megvolt otthon a legtöbb alkatrészem hozzá és a tavaszi szünet közeledésével ez egy tökéletes alkalomnak tűnt arra, hogy kifogásom legyen a tanulás elhalasztásához. Ez nem egy tutorial, pusztán leírom az elkészítése lépéseit és a gondolatmenetem.

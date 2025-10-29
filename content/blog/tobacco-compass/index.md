@@ -60,3 +60,21 @@ Mivel az előző nem vált be, keresni kell egy egyszerűbb megoldást. Még tö
 Tökéletes, egy fetch request és már meg is van a weboldal kódja, amely tartalmazza a `markers` objektumot. Szuper, kis Regex és egy [Python script](https://github.com/D4rk3rd/tobacco-compass/blob/master/db_builder/builder.py) és kevesebb mint 5 másodperc alatt nem csak kész a lista, de használatra kész a formázása is.
 
 A 6270 bejegyzett címből 5979-hez van kötve koordináta, ami nekem elég jó, persze ezeknél is el lehetne játszani az előbb használt geolocation scriptet egy kis módosítással.
+
+## Hardver
+
+A mikrovezérlő egy ESP8266 lesz, hiszen tesztelésből tudom hogy kevesebb mint. egy másodperc alatt ki tudja számolni a legközelebbi koordinátát és távolságát. Ezt egy kör alakú LED gyűrűhöz fogom kötni, egy kijelzőhöz és a GPS modult, iránytűt se felejtsük el. A nyitvatartási időt tervezem jelezni az eszközön, ehhez a pontos időt egy RTC szolgáltatja majd
+A kötögetés a következő:
+
+|    GPIO    | Jel                 | Function  | Connected Device       |
+| :--------: | :------------------ | :-------- | :--------------------- |
+| **GPIO5**  | I²C SCL             | I²C SCL   | Kijelző, Iránytű, RTC  |
+| **GPIO4**  | I²C SDA             | I²C SDA   | Kijelző, Iránytű, RTC  |
+| **GPIO14** | 5V                  | WS2812    | LED gyűrű              |
+| **GPIO13** | RX (ESP) ← TX (GPS) | NEO-7M    | GPS                    |
+| **GPIO12** | TX (ESP) → RX (GPS) | NEO-7M    | GPS                    |
+|  **VBUS**  | 5V                  | Kapcsoló  | Akkumulátor modul      |
+| **GPIO0**  | 3.3 V               | Nyomógomb | Bemenet                |
+|  **3V3**   | VCC                 | Áram      | SSD1306, HMC5883L, RTC |
+|   **5V**   | VCC                 | Áram      | LEDek, GPS             |
+|  **GND**   | GND                 | Ground    | Minden eszköz          |
