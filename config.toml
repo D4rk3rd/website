@@ -1,4 +1,4 @@
-base_url = "https://d4rk3r.xyz"
+base_url = "https://dorfler.dev"
 theme = "tabi"
 
 title = ">/dev/null"
@@ -49,7 +49,7 @@ skip_anchor_prefixes = [
 
 [extra]
 seo_title = "Dorfler David"
-base_canonical_url = "https://d4rk3r.xyz"
+base_canonical_url = "https://dorfler.dev"
 # Enable JavaScript theme toggler to allow users to switch between dark/light mode.
 # If disabled, your site will only use the theme specified in the `default_theme` variable.
 theme_switcher = true
