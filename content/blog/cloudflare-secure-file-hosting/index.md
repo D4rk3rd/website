@@ -82,7 +82,7 @@ With a bit of modification this script is easily usable for hiding a full contac
 # Using a custom domain
 To use a custom domain to host the file, you can:
 1. Navigate to the **Setting** tab, where you can select **Domains & Routes**.
-2. Click **+ Add**, and here you can either choose a **Custom domain**, or a **Route**, which maps a an inbound HTTP request to the worker [using Routes](https://developers.cloudflare.com/workers/configuration/routing/#matching-behavior).
+2. Click **+ Add**, and here you can either choose a **Custom domain**, or a **Route**, which maps an inbound HTTP request to the worker [using Routes](https://developers.cloudflare.com/workers/configuration/routing/#matching-behavior).
 3. You can choose to disable the **worker-name.accountname.workers.dev** domain in the **Domains & Routes** pane.
 
 You can now access the file through your own domain like so:
