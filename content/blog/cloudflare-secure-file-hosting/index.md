@@ -5,7 +5,7 @@ description = "99% Scraper-proof"
 date = 2025-11-19
 
 [taxonomies]
-tags = ["selfhosting", "code", "software", "cloudflare", "programming"]
+tags = ["selfhosting", "code", "software", "cloudflare", "english"]
 
 [extra]
 copy_button = true
@@ -85,5 +85,5 @@ To use a custom domain to host the file, you can:
 2. Click **+ Add**, and here you can either choose a **Custom domain**, or a **Route**, which maps an inbound HTTP request to the worker [using Routes](https://developers.cloudflare.com/workers/configuration/routing/#matching-behavior).
 3. You can choose to disable the **worker-name.accountname.workers.dev** domain in the **Domains & Routes** pane.
 
-You can now access the file through your own domain like so:
+You can now access the file through your own domain like so:  
 `https://<own-domain.tld>/?key=<super-secret-string>`
